@@ -60,7 +60,23 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+
+DOM is short for Document Object Model. It allows programmers to create, change, or remove elements from the document.
+
 2. What is an event?
+
+DOM events allow programmers to use different event handlers on elements on our page.
+
 3. What is an event listener?
+
+A DOM event that is triggered by some sort of user interaction, click is a popular event listener.
+
 4. Why would we convert a NodeList into an Array?
+
+So we can use a method like forEach or map on the nodelist created.
+
 5. What is a component?
+
+Independent and reusable bits of code that return HTML!
+
+
